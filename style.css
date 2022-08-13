@@ -1,6 +1,19 @@
-
+body{
+    margin: 0;
+}
 
 .cabecalho {
     background-color: rgb(172, 205, 207);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1% 0 1% 5%;
+
+}
+
+input{
+    background-color: rgb(172, 205, 207);
+    padding: 2%;
+    margin: 5% 5% 0 5%;
+    border: none;
+    font-size: medium;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
