@@ -16,4 +16,5 @@ input{
     border: none;
     font-size: medium;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor:pointer;
 }
