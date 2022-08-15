@@ -19,3 +19,8 @@ input.btn{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     cursor:pointer;
 }
+
+input.novo_item{
+    padding: 1% 0 1% 5%;
+    margin: 1% 0 1% 5%;
+}
